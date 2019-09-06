@@ -38,5 +38,13 @@ int main()
 	// Functions
 	cout << pow(2,3) << endl;
 
+	// 3.7
+	// Stream Manipulators
+	// setw(n)
+	// fixed
+	// showpoint
+	// setprecision(n)
+	// left
+	// right
 	cout << 10 << setw(5) << 1 << endl;
 }
