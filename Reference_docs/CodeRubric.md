@@ -4,6 +4,7 @@
 
 ## Readability (25%)
 
+### Principles
 * Comments
 
 Comments add to the legibility of the code.
@@ -28,6 +29,21 @@ Names for identifiers are intention revealing, i.e. they should be sensical, idi
 
 Code is organized sensibly. Files, libraries, etc. reflect a logical structure.
 
+### Requirements
+* Design recipie
+    * What does the program do?
+    * Pseudocode (Right now, for every line)
+* Style
+    * Stick to the 80 column limit
+    * keep variables lowercase and constants in all caps
+    * Don't switch styles
+        * Don't switch between `endl` and `"\n"`
+        * If else on new lines
+    * Don't use numbers for booleans
+    * Don't make variables inside of inner blocks
+    * Comment at top of program.
+        * name
+        * description
 ----
 
 ## Runs (15%)

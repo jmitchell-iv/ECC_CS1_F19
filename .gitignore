@@ -1,5 +1,11 @@
+# OSX
+.DS_Store
+
 # VS Code
 .vscode/*
+
+# Temp files
+temp*
 
 # Prerequisites
 *.d
