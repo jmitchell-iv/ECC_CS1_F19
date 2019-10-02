@@ -2,7 +2,7 @@
 
 ----
 
-## Readability (25%)
+## Readability (20%)
 
 ### Principles
 * Comments
@@ -46,20 +46,20 @@ Code is organized sensibly. Files, libraries, etc. reflect a logical structure.
         * description
 ----
 
-## Runs (15%)
+## Runs (10%)
 
 ----
 
-## Meets Specifications (15%)
+## Meets Specifications (10%)
 
 Demonstrates understanding of, and correctly implements specifications.
 
 ----
 
-## Student Understanding (45%)
+## Student Understanding (40%)
 
 ----
 
-## Testing (0%)
+## Testing (20%)
 
 Effective tests improve code quality. Tests must have thorough code coverage and account for corner cases.
