@@ -34,7 +34,7 @@ int main()
 	cout << setprecision(0) << fixed;
 	cout << "Number of slices = ";
 	cout << pizza_slices << endl;
-
-
+	
+	return 0;
 }
 
